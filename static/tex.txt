@@ -1,0 +1,2 @@
+this is inside static directory
+this is new line added in this file
